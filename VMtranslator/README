@@ -1,0 +1,12 @@
+yair.hadad,tal.shaked3
+
+Yair Hadad yair.hadad1@mail.huji.ac.il 311203269
+Tal Shaked tal.shaked3@mail.huji.ac.il 205484116
+
+ex8
+list of files:
+Main.py - Assembler
+CodeWriter.py- A class responsible for writing in the output file
+Parser.py - parser the file
+VMtranslator
+Makefile
